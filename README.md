@@ -53,7 +53,9 @@ A Django based web application with authentication.
 
 ## 📊 GitHub Stats
 
-![Aswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=aswanth-mc&show_icons=true&theme=default)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswanth-mc&show_icons=true&theme=default)
 
 ---
 
