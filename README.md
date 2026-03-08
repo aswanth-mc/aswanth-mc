@@ -19,23 +19,7 @@
 
 ## 🚀 Tech Stack
 
-**Languages**
-
-- Python
-- JavaScript
-- HTML
-- CSS
-
-**Frameworks**
-
-- Django
-
-**Tools**
-
-- Git
-- GitHub
-- VS Code
-
+![Tech Stack](https://skillicons.dev/icons?i=python,django,js,html,css,git,github,vscode)
 ---
 
 ## 📌 Projects
