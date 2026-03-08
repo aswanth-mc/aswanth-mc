@@ -51,7 +51,6 @@ A Django based web application with authentication.
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
