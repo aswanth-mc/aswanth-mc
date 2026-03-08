@@ -1,16 +1,66 @@
 ## Hi there 👋
 
-<!--
-**aswanth-mc/aswanth-mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Aswanth
 
-Here are some ideas to get you started:
+💻 Computer Science Student  
+🌱 Currently learning **Django & Full Stack Development**  
+🚀 Interested in **Web Development and Open Source**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 I’m currently working on **Django projects**
+- 🌱 Learning **Python, Django, JavaScript**
+- 💡 Interested in **backend development**
+- 📫 Reach me on **GitHub**
+
+---
+
+## 🚀 Tech Stack
+
+**Languages**
+
+- Python
+- JavaScript
+- HTML
+- CSS
+
+**Frameworks**
+
+- Django
+
+**Tools**
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📌 Projects
+
+### Task Manager
+A simple task manager built using **HTML, CSS, JavaScript**
+
+### YouTube Downloader
+Python script to download YouTube videos.
+
+### Django Web App
+A Django based web application with authentication.
+
+---
+
+## 📊 GitHub Stats
+
+![Aswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=aswanth-mc&show_icons=true&theme=default)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aswanth-mc)
+
+---
+
+⭐️ From [aswanth-mc](https://github.com/aswanth-mc)
