@@ -6,13 +6,13 @@ Aspiring Python Developer
 
 I am a motivated and detail-oriented BCA graduate with a strong interest in software development and problem-solving. Currently, I am focused on building my expertise in Python and full-stack web development, continuously working to strengthen my understanding of modern technologies and development practices.
 
-I have hands-on experience in developing web applications using tools and frameworks such as Django, ,and PostgreSQL. Through my academic projects and personal initiatives, I have worked on building practical solutions like web-based systems and application modules, which helped me understand real-world development workflows including backend logic, database management, and user interface design.
+I have hands-on experience in developing web applications using tools and frameworks such as Django and PostgreSQL. Through my academic projects and personal initiatives, I have developed practical solutions such as web-based systems and application modules, which have helped me understand real-world development workflows, including backend logic, database management, and user interface design.
 
 I am particularly interested in creating efficient, user-friendly, and scalable applications. I enjoy experimenting with new ideas, whether it's developing unique portfolio designs, working on creative web projects, or participating in coding challenges to improve my skills. I also actively use GitHub to manage my projects, track progress, and showcase my work.
 
 As a learner, I am committed to continuous improvement and self-development. I am currently expanding my knowledge in Python programming, exploring frameworks, and improving my problem-solving abilities. I am also interested in contributing to open-source projects and collaborating with other developers to gain real-world experience.
 
-Beyond technical skills, I value consistency, discipline, and adaptability. I am always eager to learn new technologies, take on challenges, and grow as a developer. My goal is to build impactful software solutions while continuously evolving in the field of software development.
+Beyond technical skills, I value consistency, discipline, and adaptability. I am always eager to learn new technologies, take on challenges, and grow as a developer. My goal is to build impactful software solutions while continually evolving in software development.
 
 * 🌍  I'm based in India
 
