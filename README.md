@@ -66,19 +66,19 @@ Currently, I am focused on building my expertise in **Python** and **full-stack 
 
 <p align="center">
 <a href="https://github.com/YOUR-USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=REPO-NAME-1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=GitHub-activity-visualizer&theme=tokyonight" />
 </a>
 <a href="https://github.com/YOUR-USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=REPO-NAME-2&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=task_manager&theme=tokyonight" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/YOUR-USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=REPO-NAME-3&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=western-ghats&theme=tokyonight" />
 </a>
 <a href="https://github.com/YOUR-USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=REPO-NAME-4&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=restaurants-menu&theme=tokyonight" />
 </a>
 </p>
 
