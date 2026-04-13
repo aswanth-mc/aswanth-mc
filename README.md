@@ -62,15 +62,25 @@ Currently, I am focused on building my expertise in **Python** and **full-stack 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Top Repositories
 
-- 🔹 **GitHub Activity Visualizer**  
-  Visualize GitHub activity in an interactive way  
+<p align="center">
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=REPO-NAME-1&theme=tokyonight" />
+</a>
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=REPO-NAME-2&theme=tokyonight" />
+</a>
+</p>
 
-- 🔹 **Disaster Management System**  
-  A system to manage emergency resources and rescue operations  
-
-- 🔹 **More Projects Coming Soon...**
+<p align="center">
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=REPO-NAME-3&theme=tokyonight" />
+</a>
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=REPO-NAME-4&theme=tokyonight" />
+</a>
+</p>
 
 ---
 
