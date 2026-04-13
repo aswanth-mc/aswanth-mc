@@ -31,11 +31,11 @@ Currently, I am focused on building my expertise in **Python** and **full-stack 
 ## 🌐 Connect with Me
 
 <p>
-<a href="https://github.com/YOUR-USERNAME" target="_blank">
+<a href="https://github.com/aswanth" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="www.linkedin.com/in/aswanth-m-c" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
@@ -45,11 +45,11 @@ Currently, I am focused on building my expertise in **Python** and **full-stack 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=aswanth-mcE&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswanth-mcE&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ Currently, I am focused on building my expertise in **Python** and **full-stack 
 ## 🔥 Streak Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=aswanth-mc&theme=tokyonight" />
 </p>
 
 ---
