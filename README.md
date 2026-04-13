@@ -44,15 +44,18 @@ Currently, I am focused on building my expertise in **Python** and **full-stack 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aswanth-mc&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswanth-mc&layout=compact&theme=tokyonight" />
-</p>
+### Stats Overview
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswanth-mc&show_icons=true&theme=tokyonight)](https://github.com/aswanth-mc)
 
----
+### Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswanth-mc&layout=compact&theme=tokyonight)](https://github.com/aswanth-mc)
+
+### GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aswanth-mc&theme=tokyonight)](https://github.com/aswanth-mc)
+
+</div>
 
 ## 🔥 Streak Stats
 
@@ -66,7 +69,6 @@ Currently, I am focused on building my expertise in **Python** and **full-stack 
 
 <div align="center">
 
-### Featured Projects
 
 | | |
 |---|---|
