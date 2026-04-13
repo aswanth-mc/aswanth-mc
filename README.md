@@ -45,11 +45,11 @@ Currently, I am focused on building my expertise in **Python** and **full-stack 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aswanth-mcE&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=aswanth-mc&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswanth-mcE&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswanth-mc&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -65,19 +65,19 @@ Currently, I am focused on building my expertise in **Python** and **full-stack 
 ## 🚀 Top Repositories
 
 <p align="center">
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/aswanth-mc/GitHub-activity-visualizer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=GitHub-activity-visualizer&theme=tokyonight" />
 </a>
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/aswanth-mc/task_manager">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=task_manager&theme=tokyonight" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/YOUR-USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=western-ghats&theme=tokyonight" />
+<a href="https://github.com/aswanth-mc/western_ghats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=western_ghats&theme=tokyonight" />
 </a>
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/aswanth-mc/restaurants-menu">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=restaurants-menu&theme=tokyonight" />
 </a>
 </p>
