@@ -42,21 +42,6 @@ Currently, I am focused on building my expertise in **Python** and **full-stack 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/aswanth-mc">
-    <img src="https://img.shields.io/github/followers/aswanth-mc?label=Followers&style=social" />
-  </a>
-</p>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswanth-mc&show_icons=true&hide_border=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswanth-mc&theme=tokyonight&layout=compact)
-
-</div>
 
 ## 🔥 Streak Stats
 
