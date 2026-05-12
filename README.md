@@ -55,11 +55,23 @@ Currently, I am focused on building my expertise in **Python** and **full-stack 
 
 <div align="center">
 
+<a href="https://github.com/aswanth-mc/GitHub-activity-visualizer">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=GitHub-activity-visualizer&theme=tokyonight" />
+</a>
 
-| | |
-|---|---|
-| [![GitHub-activity-visualizer](https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=GitHub-activity-visualizer&theme=tokyonight)](https://github.com/aswanth-mc/GitHub-activity-visualizer) | [![task_manager](https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=task_manager&theme=tokyonight)](https://github.com/aswanth-mc/task_manager) |
-| [![western_ghats](https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=western_ghats&theme=tokyonight)](https://github.com/aswanth-mc/western_ghats) | [![restaurants-menu](https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=restaurants-menu&theme=tokyonight)](https://github.com/aswanth-mc/restaurants-menu) |
+<a href="https://github.com/aswanth-mc/task_manager">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=task_manager&theme=tokyonight" />
+</a>
+
+<br/>
+
+<a href="https://github.com/aswanth-mc/western_ghats">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=western_ghats&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/aswanth-mc/restaurants-menu">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=aswanth-mc&repo=restaurants-menu&theme=tokyonight" />
+</a>
 
 </div>
 
